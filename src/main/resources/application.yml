@@ -1,0 +1,7 @@
+server:
+  port: 8083
+  session:
+    timeout: 7200
+  context-path: /sea
+  tomcat:
+    max-http-form-post-size: -1
